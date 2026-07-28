@@ -17,3 +17,9 @@ cd books
 ```sh
 git lfs pull
 ```
+
+## 相关链接
+
+- [ePub 在线阅读](https://app.flowoss.com/zh-CN)
+- [Z-Library](https://zh.zlib.li/)
+- [英文原版编程书](https://salttiger.com/)
